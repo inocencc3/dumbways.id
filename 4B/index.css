@@ -1,0 +1,99 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.head{
+    margin: 0;
+    width: 100vw;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.title{
+    width: 30vw;
+    height: 8vw;
+    text-align: center;
+}
+.title h1{
+    display: inline-block;
+}
+
+.h1-title2{
+    color: orange;
+}
+
+.h1-title{
+    color: white;
+}
+
+.navigasi{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+}
+
+.btn{
+    margin: .4rem;
+    background-color: orange;
+    border: 0;
+    padding: .2rem .5rem;
+    border-radius: .4rem;
+    color: white;
+}
+
+.list-course{
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: auto auto auto auto;
+    margin: 0 auto;
+    width: 60rem;
+    padding: 5;
+    justify-content: center;
+}
+
+.item{
+    background-color: #36454f;
+    width: 13rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.centered{
+    padding: 0 .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-title{
+    color: white;
+}
+.text-author{
+    color: #A9A9A9;
+    font-size: 10px;
+}
+
+.text-desc{
+    color: #A9A9A9;
+    text-align: justify;
+    padding: .5rem;
+    font-size: 12px;
+}
+
+.button-detail{
+    width: 12rem;
+    margin: .5rem auto;
+    text-align: center;
+}
+
+.detail{
+    color: aqua;
+    border-radius: .5rem;
+    width: 10rem;
+    padding: .5rem 0;
+    background-color: #ADADAD;
+    border: 0;
+}
