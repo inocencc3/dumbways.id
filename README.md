@@ -1,5 +1,5 @@
 # Technical Test DUMBWAYS.ID Muhammad Wildan Nur Fajri
--Menggunakan javascript
+-Menggunakan javascript <br>
 -File Jawaban bernama sama seperti soalnya
   Soal 1 = 1.js
   Soal 2 = 2.js 
